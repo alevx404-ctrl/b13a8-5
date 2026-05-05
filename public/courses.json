@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development ",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch using HTML, CSS, and JavaScript.",
+    "image": "https://i.ibb.co.com/sdXmNdXL/Top-5-Key-Factors-to-Consider-for-a-Successful-Website-Design.jpg",
+    "category": "Development"
+  },
+  {
+    "id": 2,
+    "title": "Advanced UI/UX Design Mastery",
+    "instructor": "Sarah Jenkins",
+    "duration": "15 hours",
+    "rating": 4.9,
+    "level": "Intermediate",
+    "description": "Master Figma and Adobe XD to create stunning user interfaces and experiences.",
+    "image": "https://i.ibb.co.com/qMS6s2RS/Are-you-looking-for-a-UI-UX-design-services-Want-to-Design-Your-WEB-APP-LOGO-BRAND-KIT-UI-Inbo.jpg",
+    "category": "Design"
+  },
+  {
+    "id": 3,
+    "title": "Python for Data Science",
+    "instructor": "Dr. Alan Turing",
+    "duration": "30 hours",
+    "rating": 4.7,
+    "level": "Beginner",
+    "description": "Dive into data analysis, visualization, and machine learning with Python.",
+    "image": "https://i.ibb.co.com/9HNJh8SP/wallpaper-python.jpg",
+    "category": "Data Science"
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing Strategy 2026",
+    "instructor": "Emily Chen",
+    "duration": "12 hours",
+    "rating": 4.6,
+    "level": "All Levels",
+    "description": "Learn SEO, SEM, and social media marketing to grow any business online.",
+    "image": "https://i.ibb.co.com/zdSkkHn/digital-marketing.jpg",
+    "category": "Marketing"
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity Fundamentals",
+    "instructor": "Marcus Knight",
+    "duration": "18 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Protect systems and networks from digital attacks and learn ethical hacking.",
+    "image": "https://i.ibb.co.com/v6wR03dD/Cybersecurity.jpg",
+    "category": "IT & Software"
+  },
+  {
+    "id": 6,
+    "title": "Mobile App Development with Flutter",
+    "instructor": "Sophia Rodriguez",
+    "duration": "25 hours",
+    "rating": 4.9,
+    "level": "Intermediate",
+    "description": "Build high-performance native apps for iOS and Android with a single codebase.",
+    "image": "https://i.ibb.co.com/Y4PPX20R/development-flutter-app.jpg",
+    "category": "Development"
+  }
+]

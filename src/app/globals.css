@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@plugin "daisyui";
+/**@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;1,600&display=swap');*/
+:root {
+  --primary: #00C4CC;
+  --secondary: #FF4F5A;
+  --accent: #FFD166;
+  --background: #F9FAFB;
+  --text: #1F2937;
+}
+
+@keyframes loading-bar {
+  0% { transform: scaleX(0); }
+  50% { transform: scaleX(0.7); }
+  100% { transform: scaleX(1); }
+}
+
+.animate-loading-bar {
+  animation: loading-bar 2s ease-in-out infinite;
+  transform-origin: left;
+}
