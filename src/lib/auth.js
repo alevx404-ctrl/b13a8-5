@@ -20,5 +20,8 @@ export const auth = betterAuth({
   advanced: {
     useSecureCookies: false, 
   },
-  trustedOrigins: ["http://localhost:3000"],
+  trustedOrigins: [
+  "http://localhost:3000",
+  "https://b13a8-5.vercel.app",
+],
 });

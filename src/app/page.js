@@ -7,12 +7,12 @@ import TopInstructors from "@/components/home/TopInstructors";
 import NewReleases from "@/components/home/NewReleases";
 
 async function getCourses() {
-  const res = await fetch("http://localhost:3000/courses.json", {
+const res = await fetch(
+  `${process.env.NEXT_PUBLIC_APP_URL}/courses.json`,
+  {
     cache: "no-store",
-    //no-store for now
-    //force-cache for final version
-
-  });
+  }
+);
 
   return res.json();
 }
